@@ -3,9 +3,13 @@ This project is a complete data engineering pipeline using dbt (Data Build Tool)
 
 ### Tech Stack
 dbt Core – For data transformation and modeling
+
 Snowflake – Cloud-based data warehouse
+
 Apache Airflow – Workflow automation and orchestration
+
 Python – Scripting and automation
+
 Git – Version control
 
 
